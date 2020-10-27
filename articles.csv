@@ -1,0 +1,261 @@
+link,headline,publish_date,text,image
+https://www.nbcnews.com/technology/microsoft-let-nsa-bypass-encryption-mail-chats-cloud-storage-says-6C10607490,"Microsoft let NSA bypass encryption on mail, chats and cloud storage, says Guardian",07-11-13,"New disclosures shared by Edward Snowden focus on Microsoft. The Guardian, via Reuters, file
+
+Microsoft worked with the National Security Agency and the FBI to provide the agencies with the encryption workarounds they needed for access to Skype video calls, Outlook Web chats and email, and information stored on Microsoft's cloud-based SkyDrive, according to new information shared by NSA leaker Edward Snowden with the Guardian newspaper.
+
+In the latest round of disclosures about data-gathering practices of law enforcement in a program known as ""Prism,"" Microsoft ""has collaborated closely with U.S. intelligence services to allow users' communications to be intercepted, including helping the National Security Agency to circumvent the company's own encryption, according to top-secret documents obtained by the Guardian,"" the newspaper reported Thursday.
+
+The new files ""provided by Edward Snowden illustrate the scale of cooperation between Silicon Valley and the intelligence agencies over the last three years,"" the Guardian said.
+
+Microsoft, in a statement to NBC News, did not address the encryption workaround specifically, but said, ""We only ever comply with orders about specific accounts or identifiers, and we would not respond to the kind of blanket orders discussed in the press over the past few weeks, as the volumes documented in our most recent disclosure clearly illustrate.
+
+""To be clear, Microsoft does not provide any government with blanket or direct access to SkyDrive, Outlook.com, Skype or any Microsoft product.""
+
+The company said when it upgrades or updates products, ""legal obligations may in some circumstances require that we maintain the ability to provide information in response to a law enforcement or national security request. There are aspects of this debate that we wish we were able to discuss more freely. That's why we've argued for additional transparency that would help everyone understand and debate these important issues.""
+
+ACLU principal technologist Chris Soghoian told NBC News that the new revelations show that ""time and time again, companies that specifically advertise their services as privacy protecting have been forced to circumvent those privacy protections to enable the government to spy on their customers.""
+
+Microsoft isn't the only technology company believed to be cooperating with the government to share data, but it is the first to have more details revealed since the initial disclosures last month by Snowden.
+
+At that time, he said that Microsoft and other technology companies like Google, Facebook, Apple, Yahoo and AOL were allowing the FBI and NSA to look at Americans' video, audio, photos, emails and other data files under what is known as the Prism program. Most of the companies, including Microsoft, have since requested government permission to share the information requests that have been made to them.
+
+According to the information shared by Snowden with the Guardian, Microsoft ""helped the NSA to circumvent its encryption to address concerns that the agency would be able to intercept Web chats on the new Outlook.com portal.""
+
+Microsoft completed the transfer of its 300 million Hotmail users to Outlook.com, a more modern webmail experience, in May. The NSA ""already had pre-encryption stage access to email on Outlook.com, including Hotmail,"" the Guardian said.
+
+The Redmond, Wash.-based company ""also worked with the FBI's Data Intercept Unit to 'understand' potential issues with a feature in Outlook.com that allows users to create email aliases,"" the newspaper said.
+
+Video-chat service Skype ""worked with intelligence agencies last year to allow Prism to collect video of conversations as well as audio,"" the Guardian said.
+
+There have been concerns since Microsoft bought Skype in 2011 about what data the Redmond company is sharing with law enforcement. Last January, dozens of organizations, including the Electronic Frontier Foundation and Digital Rights Foundation, sent an open letter to Microsoft asking how, when and why the popular video chatting program complies with government requests for information.
+
+In March, Microsoft published a transparency report about Skype, and other of its services.
+
+""Microsoft and Skype received a total of 75,378 law enforcement requests,"" the company said in the report. ""Those requests potentially impacted 137,424 accounts. While it is not possible to directly compare the number of requests to the number of users affected, it is likely that less than 0.02 percent of active users were affected.""
+
+The Guardian reports that Microsoft also worked with the FBI this year ""to allow the NSA easier access via Prism to its cloud storage service SkyDrive, which now has more than 250 million users worldwide.""
+
+In its statement Thursday, Microsoft said it has ""clear principles which guide the response across our entire company to government demands for customer information for both law enforcement and national security issues.""
+
+The company takes its ""commitments to our customers and to compliance with applicable law very seriously, so we provide customer data only in response to legal processes."" Microsoft's compliance team ""examines all demands very closely, and we reject them if we believe they aren't valid.""
+
+Snowden, 30, has worked with the Guardian since last month to share information he learned in his time as an NSA contractor about data-gathering practices of the NSA, one of the country's most secretive agencies.
+
+He is now believed to be staying in the transit zone of Moscow’s Sheremetyevo Airport, as he decides where he can go for asylum and where he can avoid being extradited to the United States. Federal prosecutors have charged Snowden with three counts of espionage.
+
+
+
+
+
+
+
+",https://media2.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/tdy_maceda_snow_130710.nbcnews-fp-1200-630.jpg
+https://www.usatoday.com/story/nation/2013/08/07/jill-kelley-general-david-petraeus-general-john-allen/2625981/,Tampa socialite Jill Kelley: The saga continues,08-07-13,"Tom Vanden Brook, @tvandenbrook
+
+USA TODAY
+
+Justice's delay isn't necessarily justice denied for Jill Kelley, the Tampa socialite entangled in the scandal that toppled former CIA director David Petraeus.
+
+The Justice Department has asked for a 30-day extension, until Sept. 4, to respond to her lawsuit against the government for violating her family's privacy, rifling through her e-mails and leaking confidential information about her.
+
+And Kelley is fine with the extension, says her lawyer, Alan Raul. The government says it needs the time to sort through the allegations in the 65-page complaint. It doesn't help, Justice Department lawyers say, that Pentagon employees have been furloughed because of sequestration.
+
+""We are pleased that the federal government appears to be taking this case seriously, and is taking extra time to conduct its internal inquiry in response to this lawsuit,"" Raul said in a statement.
+
+Kelley had been an unpaid social liaison to the military and had hosted parties for military officials, including Petraeus and Gen. John Allen, at her home on Tampa's Bayshore Boulevard. The headquarters of Central Command, which oversees military action in the Middle East, is a few miles away.
+
+Petraeus' extramarital affair with his biographer, Paula Broadwell, was exposed after Kelley complained to the FBI about harassing e-mails she had received. Broadwell was behind them.
+
+Allen's name also popped up in Kelley's e-mails.
+
+That prompted then-Defense Secretary Leon Panetta to call for an investigation of Allen's relationship with Kelley to determine if there had been ""professional misconduct"" on his part. Allen and Kelley say there was nothing inappropriate about their relationship. The Pentagon inspector general agreed, although the Defense Department refuses to release its findings. USA TODAY and other news organizations have filed multiple requests for the report but have been denied.
+
+Allen and Kelley exchanged 3,000 e-mails from July 2010 to July 2012, according to Rep. Jackie Speier, the California Democrat on the Armed Services Committee. She was briefed by the inspector general on the report but not shown the document. Of those e-mails, 41 were reviewed more thoroughly, Speier was told.
+
+Speier wants Allen to divulge e-mails from his private account to Kelley. He refused to provide them to the inspector general, Speier said.
+
+Kelley and her husband, Scott, want an apology and unspecified damages for what they say were willful leaks by federal officials of false and damaging information about them. Those officials should have been protecting them and their privacy, they say in their lawsuit.
+
+""The Kelleys are trying to deter the government from violating the privacy rights of other Americans by calling attention to the government's profound over-collection of private e-mails and egregious leaking of confidential investigative material,"" Raul said.",https://www.gannett-cdn.com/media/USATODAY/MilitaryIntelligence/2013/08/06/1375841146000-A05-PETRAEUS-KELLEY-19-1308062207_16_9.jpg?width=2428&height=1372&fit=crop&format=pjpg&auto=webp
+https://www.dailykos.com/stories/2013/12/02/1259558/-Young-white-dancer-with-her-two-black-instructors-handcuffed-by-Houston-Police-Racism,Young white dancer with her two black instructors handcuffed by Houston Police. Racism?,12-02-13,"
+
+
+
+
+
+
+
+
+
+
+
+The following irresponsible police action reported by KHOU’s Rucks Russell should scare many. Here is the story as reported.
+
+A young 13 year old dancer, Landry Thompson, came to Houston from Oklahoma. She travelled with her two dance instructors over the weekend. The intent of their visit was to train all weekend with some of the best in dance industry.
+
+When they left the studio Saturday night they stopped at a gas station very exhausted as they searched for their lodging. They were trying to locate their hotel on the GPS. Out of nowhere they were surrounded by the Houston police.
+
+The Houston police dragged them out of the car and handcuffed them all.
+
+“I was kind of freaked out and surprised by it,” said Landry Thompson.
+
+“They just pulled us out of the car. Put our hands behind out backs like we were criminals,” said Landry’s dance instructor Emmanuel Hurd. “He asked me; who is the girl? She is my student. I said I have a notarized letter from her parents stating that I have full guardianship over her while we are here.”
+
+Landry Thompson and the instructors said they pleaded with the police and told the police their story repeatedly. It did not matter to the Houston police. Landry Thompson said, “They still put handcuffs on me. And it really scared me. And they put me in the back of the cop car. I was terrified.” Landry Thompson was taken to Protective Services.
+
+“I was horrified. She was with the people I wanted her to be with. She was with people who were safe who I knew would take care of her,” said Her mother, Destiny Thompson. “Yet they had taken her away from those people and now she was in a shelter, wherever she was with people I didn’t know.”
+
+Protective Services told Destiny Thompson that she would have to fly to Houston to get her daughter. After many phone calls with various officials, Landry Thompson was released back into the custody of her dance instructors.
+
+“I would love an apology,” said Landry Thompson’s mother. “They owe her an apology.”
+
+Soon after, the trio was back at the dance studio. They intend to leave Houston on Monday afternoon.
+
+The Houston police (HPD) has not been responding to inquiries as to what happened.
+
+Were Landry Thompson and dance instructors victims of stereotyping and racism?
+
+Why did the Houston police believe they had to react as they did? Does it have anything to do with the young dancer being a young white girl and the two dance instructors being young black males? If the two instructors were white males would the police officers have reacted in the same manner? The dance instructors had notarized document detailing that they were the young girl’s guardian. What else were they expected to do to ensure they would not be treated like common criminals but the productive human beings they are?
+
+
+
+
+
+LIKE My Facebook Page – Visit My Blog:EgbertoWillies.com
+
+Follow @EgbertoWillies",https://assets.dailykos.com/assets/fb_default-5621cb24390e49445744c08e1c8fa710.png
+https://www.breitbart.com/politics/2013/10/09/Exclusive-Immigration-agents-rip-Bob-Goodlatte-other-Republicans-Democrats-pushing-for-amnesty-in-House/,Exclusive: Immigration Agents Rip House Lawmakers Pushing Amnesty,10-09-13,"U.S. Immigration Citizenship and Immigration Services (USCIS) agents have expressed strong concerns over House Judiciary Committee chairman Rep. Bob Goodlatte (R-VA) and other Representatives pushing for immigration legislation that would legalize the status of America’s at least 11 million illegal immigrants.
+
+In a public statement that will be released Thursday morning but has been provided exclusively to Breitbart News ahead of its public release, USCIS Council president Kenneth Palinkas warned that Goodlatte (pictured), House Budget Committee chairman Rep. Paul Ryan (R-VA), House Majority Leader Rep. Eric Cantor (R-VA), and Rep. Luis Gutierrez (D-IL) seem to be following the same pathway that Senate “Gang of Eight” members did, regarding how they are working on immigration legislation.
+
+“At every step, this administration places obstacles and roadblocks in front of our adjudication officers in their attempts to protect our nation’s security and the American taxpayer,” Palinkas said. “I documented these abuses on more than one occasion with the authors of Schumer-Rubio-Corker-Hoeven [S. 744] only to have them ignored.
+
+“I worry the House may be following a similar path. Media reports reveal that Chairman Bob Goodlatte, Chairman Paul Ryan, Congressman Luis Gutierrez, and Majority Leader Eric Cantor are working to advance proposals to open citizenship benefits to the majority of those here illegally, in combination with proposals to expand visa programs.”
+
+Palinkas warned, too, that any group of “step-by-step” House immigration bills may be used as a tool by congressional leaders to get to a conference committee, at which point they would be combined with the Senate bill and sent to the president for his signature, and illegal immigrants would start getting amnesty. That is exactly what House Minority Leader Nancy Pelosi, Gang of Eight members Sens. Bob Menendez (D-NJ) and Chuck Schumer (D-NY), Senate Majority Leader Harry Reid, and some Republicans have said they want to do.
+
+“These plans are being pursued before first reforming the very agency – USCIS – that will be charged with reviewing these tens of millions of green card, temporary visa and citizenship applications,” Palinkas said. “Advancing such measures without first confronting the widespread abuses at USCIS would be to invite disaster.”
+
+In his statement, Palinkas cited a recent MSNBC report where Gutierrez said he, Goodlatte, and others have worked on a “compromise” position. That MSNBC report also noted that Goodlatte and other Republicans are working with Rep. Henry Cuellar (D-TX), another Democrat, on a plan to get to conference with the Senate bill. Palinkas stated that USCIS agents have been, like they were from the Senate conversations, excluded from all discussions among House leaders. “Why aren’t USCIS officers being consulted on this ‘compromise’ offer?” Palinkas asked.
+
+He further expressed concern over Cantor’s GOP DREAM Act, tentatively called the KIDS act. “I am also worried about the arguments being used to support the KIDS Act, one piece of the wider citizenship plan being drafted,” Palinkas said. “Legislators, including Mr. Cantor and Mr. Goodlatte, have suggested that it is improper to apply immigration law to younger illegal aliens. But if it is improper to apply immigration law to one specific group of illegal aliens, then why should we expect future illegal aliens in this group to be treated any differently?”
+
+He warned that the KIDS Act may lead down a slippery slope. “This seems like an argument for extending birthright citizenship in the future to include the foreign citizens of other countries,” Palinkas asserted. “Should we just expect that the next Secretary at DHS will use the arguments we are hearing in the House to enact the next Deferred Action program in anticipation of the next legislated amnesty?”
+
+Palinkas alleged that, under the Obama administration, USCIS has been riddled with nefarious activities. “At USCIS, our institutional mission has been corrupted by politics, and I hope these abuses will be examined and fixed before any amnesty proposal is brought forward in the House,” he said.
+
+He finished off his statement by listing several immigration issues he hoped House Republicans would address but have thus far not been willing to: “USCIS adjudications officers lack the mission support to safely screen and review applicants for immigration benefits. This includes the inability to conduct in-person interviews, the failure of our software system, the lack of training and office space, and pressure to rubber-stamp applications. We have become an approval machine,” “Failure to protect taxpayers from abuses of the welfare system by those granted immigration benefits,” “Administrative orders that require us to grant immigration benefits to those who, under law, are not properly eligible,” “Approval quotas placed on adjudicators that emphasizes clearing applications more than vetting them,” “A management culture that sees illegal aliens and foreign nationals, not US citizens and taxpayers, as the customer. We believe in treating all with respect and always will, but our agency’s focus must be keeping the country safe and secure on behalf of the American people.”
+
+Goodlatte, Ryan, and Cantor are not the only Republicans still pushing to pass an immigration bill in the House of Representatives. According to the Miami Herald, Rep. Steve Southerland (R-FL) said about immigration: “We have to address it. It’s a moral issue.”
+
+In addition, according to Politico, House GOP conference chairwoman Rep. Cathy McMorris Rodgers (R-WA) said she thinks immigration should be a top priority for House Republicans this year.
+
+This coming weekend on Univision, McMorris Rodgers will say that House Speaker John Boehner “over the last few weeks has continued to talk about the importance of the House moving forward on immigration reform. I believe that we have a window here between now and the end of the year and that this is a priority.”
+
+McMorris Rodgers is the fourth highest-ranking member in the House GOP conference.",https://media.breitbart.com/media/cdn/mediaserver/Breitbart/Big-Government/2013/Congress/House%20Republicans/goodlatte-scratch-afp.jpg
+https://edition.cnn.com/2013/06/28/politics/obama-contraceptives/index.html,Finalized rules let religious groups opt out of contraception mandate,06-28-13,"Story highlights Rules let groups like religious hospitals, schools to decline to provide contraception coverage
+
+But women would still get coverage; outside provider would pay for contraception
+
+The rules, first proposed in February, appear to have undergone only minor changes
+
+Obama administration: Rules appropriately balance religious liberty, contraception coverage
+
+The Obama administration finalized rules on Friday that allow religious-affiliated organizations opposing the use of contraception to opt out of a federal mandate requiring that they provide their employees with insurance coverage for birth control.
+
+The mandates give women at nonprofit, religious-based organizations, like certain hospitals and universities, the ability to receive contraception through separate health policies at no charge.
+
+The rules, which were first proposed in February and then open for comment through April, have undergone only minor changes. Chiquita Brooks-LaSure, deputy director for policy and regulations at the U.S. Department of Health and Human Services, said in a call with reporters that the rules were ""very similar"" to the administration's original proposal.
+
+One of the few noticeable changes is the process by which insurance companies reimburse nonprofit religious organizations -- such as nonprofit religious hospitals and institutions of higher education -- that object to contraceptive coverage. This process, officials from HHS said, has provided more distance between the groups that disapprove of contraceptive use and the insurance companies that will be supplying contraceptives to their employees at no cost.
+
+These slight changes, said one HHS representative, came after hearing from stakeholders during a public comment period this year. In total, more than 400,000 comments were sent to the department on the rule.
+
+Objecting organizations and insurers will have until January 1, 2014, to comply with the new rules. This date was extended from August 1, 2013.
+
+""The health care law guarantees millions of women access to recommended preventive services at no cost,"" Health and Human Services Secretary Kathleen Sebelius said in a Friday news release . ""Today's announcement reinforces our commitment to respect the concerns of houses of worship and other non-profit religious organizations that object to contraceptive coverage, while helping to ensure that women get the care they need, regardless of where they work.""
+
+Since Obamacare was signed into law in 2010, administration officials have said the administration has attempted to work out how nonprofit organizations can decline to provide contraception coverage to their employees on religious grounds without facing a penalty.
+
+In a news release about the finalized plans, administration officials say these final rules ""strike the appropriate"" balance.
+
+In February, the health agency said that while it could not provide a final cost of the plan, offering free coverage would lower expenses over the long term, partly because of improvements in women's health and fewer childbirths.
+
+As part of the new rules, groups that are insured -- such as with student health plans at religious colleges -- would be required to let their insurer know that certain participants would like contraception coverage.
+
+Because the insurer would be covering the costs, the changes would allow religious organizations morally opposed to contraception to avoid paying for it.
+
+Although many religious groups applauded the compromise, not everyone heralded it as a success.
+
+The U.S. Conference of Catholic Bishops said in February that it does not support the Obama administration's proposals because they fall short of addressing concerns about religious freedom.
+
+""Because the stakes are so high, we will not cease from our effort to assure that health care for all does not mean freedom for few,"" Cardinal Timothy Dolan of New York, president of the conference, said in a February statement . ""We will continue to stand united with brother bishops, religious institutions, and individual citizens who seek redress in the courts for as long as this is necessary.""
+
+Those calls of disapproval continued after Friday's finalization of the contraceptive plans.
+
+""This latest rule shows the administration is tone-deaf to religious freedom,"" said Anna Higgins, director at the Family Research Council. ""Family Research Council strongly opposes the latest regulation that continues to mandate that life-ending drugs and contraceptive services be covered, with no copay, by health plans of businesses and organizations that have serious moral and religious objections.""
+
+Michael Hash, director of the Office of Health Reform for HHS, said the changes that were made took into account suggestions from religious organizations that objected to the rules.
+
+""I think there is a much brighter line, simpler line, and we think that responds to the good many comments that we got,"" he said.
+
+An original mandate on providing contraception was part of the new federal health care law spearheaded by President Obama, the Affordable Care Act. It required that insurers provide, at no cost to those insured, all forms of contraception approved by the Food and Drug Administration.
+
+Houses of worship were exempt immediately, and the administration widened those exemptions last year to include other religiously affiliated organizations, like universities and hospitals.
+
+That still left groups across a wide spectrum of faiths -- many of which teach that contraception is morally wrong -- covered by the mandate. They denounced it as an infringement on religious liberty. A group of 43 Catholic organizations challenged the rules in federal court in May.
+
+The administration had long defended the mandate, saying that it did not violate religious liberties.
+
+The finalized proposal also clarified the definition of a religious employer.
+
+Instead of using a multipart test that required an employer to show ""religious values as its purpose"" and to ""employ persons who share its religious tenets,"" the proposal followed the Internal Revenue Code's definition that includes ""churches, other houses of worship, and their affiliated organizations.""
+
+After an uproar among religious institutions that didn't want to pay for contraceptives, the Obama administration offered several alternatives in March 2012. These plans are a continuation of those efforts.
+
+The issue of Obama's health care act mandating contraception coverage became a hot-button political issue during last year's presidential race.
+
+In August 2012, Republican nominee Mitt Romney released a television ad that attacked the Obama administration.
+
+""President Obama used his health care plan to declare war on religion, forcing religious institutions to go against their faith,"" the ad said. ""Mitt Romney believes that is wrong.""
+
+Although the ad did not specifically mention the contraception rule, a news release that accompanied the ad justified the ""war on religion"" claim using an editorial published in the San Antonio Express-News in February about the health care law's rule on providing contraception.",https://cdn.cnn.com/cnn/.e/img/4.0/logos/cnn_logo_social.jpg
+https://www.bbc.com/vietnamese/world/2013/08/130812_snowden_father_visit,Cha của Snowden 'chuẩn bị thăm con',08-13-13,"Cha của Snowden 'chuẩn bị thăm con'
+
+Chụp lại hình ảnh, Lon Snowden (bên phải) và luật sư của ông đã nói chuyện với các nhà báo
+
+Luật sư cho hay ông Lon Snowden, cha của Edward Snowden, đã nhận được visa và sẽ sớm đi Nga thăm con trai.
+
+Ông Snowden cha nói với kênh truyền thông ABC của Mỹ rằng ông mong muốn con mình trở về Mỹ với điều kiện hệ thống pháp lý được bảo đảm công minh trong trường hợp này.
+
+Ông nói thêm rằng con trai ông ""đã nói lên sự thật"" và hy sinh nhiều thứ.
+
+Edward Snowden đã được Nga cho tỵ nạn mặc dù Mỹ yêu cầu dẫn độ ông về nước để xử lý.
+
+Lon Snowden đã xuất hiện với luật sư của ông là Bruce Fein trên kênh ABC.
+
+Luật sư Fein nói về kế hoạch đi Moscow: ""Chúng tôi đã có visa, đã có ngày tháng nhưng chúng tôi không muốn tiết lộ vì sợ bị săn đuổi"".
+
+Edward Snowden tới Moscow ngày 23/6 từ Hong Kong, sau khi rò rỉ thông tin về chương trình do thám mật của Mỹ cho báo chí.
+
+Sau đó ông đã trải qua hơn 5 tuần ở khu quá cảnh sân bay Sheremetyevo, Moscow. Ông rời sân bay hồi tuần trước sau khi được Nga cho quy chế tỵ nạn tạm thời.
+
+Luật sư Fein cho hay đã nói chuyện với luật sư Nga của Edward Snowden, Anatoly Kucherena, và được biết là ông Snowden vẫn an toàn.
+
+""Tất nhiên anh ấy mệt mỏi. Anh ấy cần một thời gian để hồi phục và suy nghĩ xem anh ấy muốn làm gì.""
+
+Xét xử công minh
+
+Ông Lon Snowden thì nói rằng với tư cách một người cha, ông muốn con mình được về nhà, nhưng lo ngại liệu sẽ có một phiên tòa công minh hay không.
+
+Ông nói: ""Vào thời điểm này, khi mà xem xét các phát biểu mà lãnh đạo chúng ta đưa ra... thì thấy là họ hoàn toàn vô trách nhiệm"".
+
+Vụ Snowden đã gây ra hậu quả ngoại giao khá nặng nề, và Hoa Kỳ đã hủy cuộc gặp thượng đỉnh với Nga mà theo dự tính sẽ diễn ra vào tháng Chín này.
+
+Quyết định của Nga cho Snowden tỵ nạn bị cho là đã làm tổn hại quan hệ vốn đã căng thẳng giữa hai bên.
+
+Tuy nhiên, giới ngoại giao hai nước vẫn gặp nhau hôm thứ Sáu tuần trước để thảo luận một số vấn đề khác.
+
+Edward Snowden là cựu nhân viên một công ty làm thầu cho Cơ quan An ninh Quốc gia Mỹ (NSA), và ông cũng từng làm việc cho CIA.
+
+Hồi tháng Sáu, ông rò rỉ thông tin cho các báo Guardian và Washington Post về chương trình thu thập dữ liệu các cuộc gọi điện thoại và email của NSA.",https://ichef.bbci.co.uk/news/1024/branded_vietnamese/worldservice/live/assets/images/2013/08/11/130811154207_lon_snowden_112x63_reuters_nocredit.jpg
