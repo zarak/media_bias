@@ -6,7 +6,10 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
+from sqlalchemy.orm import sessionmaker
 import logging
+
+from media_bias.models import DeepBlue, db_connect, create_table
 
 
 class MediaBiasPipeline:
@@ -23,11 +26,6 @@ class DeepBluePipeline(object):
         session = self.Session()
         deepblue = DeepBlue()
         deepblue.text = item["text"]
-
-        # check whether the url exists
-        exist_url = session.query(DeepBlue).filter_by(url=item["url"]).first()
-        if exist_url is not None:  # the current url exists
-            deepblue.url = item["url"]
 
         try:
             session.add(deepblue)
