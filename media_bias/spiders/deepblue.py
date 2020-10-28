@@ -6,7 +6,7 @@ from newspaper import Article
 
 
 class DeepBlueSpider(scrapy.Spider):
-    name = 'article'
+    name = 'deepblue'
     start_urls = [ "http://www.foxnews.com/politics/2013/04/03/obamacare-in-trouble-exchange-provision-delayed-as-lawmakers-push-to-repeal/"	
                  , "http://www.breitbart.com/Big-Government/2013/10/09/Exclusive-Immigration-agents-rip-Bob-Goodlatte-other-Republicans-Democrats-pushing-for-amnesty-in-House"	
                  , "http://www.cnn.com/2013/06/28/politics/obama-contraceptives/index.html"	
