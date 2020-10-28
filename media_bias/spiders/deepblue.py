@@ -5,7 +5,7 @@ import datetime
 from newspaper import Article
 
 
-class ArticleSpider(scrapy.Spider):
+class DeepBlueSpider(scrapy.Spider):
     name = 'article'
     start_urls = [ "http://www.foxnews.com/politics/2013/04/03/obamacare-in-trouble-exchange-provision-delayed-as-lawmakers-push-to-repeal/"	
                  , "http://www.breitbart.com/Big-Government/2013/10/09/Exclusive-Immigration-agents-rip-Bob-Goodlatte-other-Republicans-Democrats-pushing-for-amnesty-in-House"	
