@@ -88,4 +88,19 @@ ITEM_PIPELINES = {
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-CONNECTION_STRING = "sqlite:///deepblue_articles.db"
+# CONNECTION_STRING = "sqlite:///deepblue_articles.db"
+from dotenv import load_dotenv, find_dotenv
+from pathlib import Path  # Python 3.6+ only
+import os
+
+load_dotenv(find_dotenv(), verbose=True)
+
+
+DATABASE_USER = os.getenv("DATABASE_USER")
+DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD")
+DATABASE_ADDRESS = os.getenv("DATABASE_ADDRESS")
+print('dbuser', DATABASE_USER)
+print(DATABASE_PASSWORD)
+print(DATABASE_ADDRESS)
+
+CONNECTION_STRING = f"postgres://{DATABASE_USER}:{DATABASE_PASSWORD}@{DATABASE_ADDRESS}:5432/deepblue"
