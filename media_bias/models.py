@@ -21,5 +21,5 @@ class DeepBlue(Base):
     __tablename__ = "deepblue"
 
     id = Column(Integer, primary_key=True)
-    text_content = Column('text', Text())
+    text = Column('text', Text())
     url = Column('url', String(300), unique=True)
