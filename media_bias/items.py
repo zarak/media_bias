@@ -7,8 +7,5 @@ import scrapy
 
 
 class MediaBiasItem(scrapy.Item):
-    link = Field()
-    headline = Field()
-    publish_date = Field()
+    url = Field()
     text = Field()
-    image = Field()
