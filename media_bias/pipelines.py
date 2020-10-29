@@ -26,6 +26,7 @@ class DeepBluePipeline(object):
         session = self.Session()
         deepblue = DeepBlue()
         deepblue.text = item["text"]
+        deepblue.url = item["url"]
 
         try:
             session.add(deepblue)
